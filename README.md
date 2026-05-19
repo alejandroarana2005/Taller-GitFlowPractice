@@ -55,7 +55,7 @@ http://localhost:3000/api/estado
 
 ## Autores
 
-- Alejandro Arana Fernandez 2220232039 Universidad de Ibagué
+- Alejandro Arana Fernandez 2220232039, Universidad de Ibagué, Ingenieria de Software grupo 01
 
 ## Flujo de trabajo Git
 
