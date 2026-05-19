@@ -70,11 +70,10 @@ El flujo general es:
 ~~~text
 http://localhost:3000/api/estado
 ~~~
-> Nota temporal: pendiente agregar ejemplos adicionales de uso.
 
 ## Autores
 
-- Alejandro Arana Fernandez 2220232039, Universidad de Ibagué, Ingenieria de Software grupo 01
+- Alejandro Arana Fernandez 2220232039, Universidad de Ibagué
 
 ## Flujo de trabajo Git
 
