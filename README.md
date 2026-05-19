@@ -69,3 +69,5 @@ Durante la práctica se usará Git Flow:
 - hotfix/readme-typo: rama para corregir un error menor.
 
 La versión final se marcará con el tag v1.0.0.
+
+
