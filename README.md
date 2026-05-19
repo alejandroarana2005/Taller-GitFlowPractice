@@ -67,19 +67,14 @@ Los issues de misión no se cierran manualmente. El workflow **Validar progreso 
 
 El flujo general es:
 
-1. Crear `develop`.
-2. Crear ramas `feature/`.
-3. Practicar `git stash`.
-4. Completar el README explicando cómo levantar la API.
-5. Integrar cambios con Pull Requests.
-6. Crear una rama `release/`.
-7. Crear el tag `v1.0.0`.
-8. Corregir un detalle con una rama `hotfix/`.
+~~~text
+http://localhost:3000/api/estado
+~~~
+> Nota temporal: pendiente agregar ejemplos adicionales de uso.
 
 ## Autores
 
-- Plantilla para estudiantes de Ingeniería de Software.
-- Docente responsable: ajustar según el curso.
+- Alejandro Arana Fernandez 2220232039, Universidad de Ibagué, Ingenieria de Software grupo 01
 
 ## Flujo de trabajo Git
 
@@ -92,4 +87,6 @@ La práctica usa una versión guiada de Git Flow:
 - `release/v1.0.0`: rama de preparación de versión.
 - `hotfix/readme-typo`: rama para una corrección menor.
 
-Los workflows de GitHub Actions crean y cierran issues automáticamente a medida que el estudiante avanza.
+La versión final se marcará con el tag v1.0.0.
+
+
