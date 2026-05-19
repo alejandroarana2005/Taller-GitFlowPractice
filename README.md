@@ -51,6 +51,7 @@ Si usas navegador, abre:
 ~~~text
 http://localhost:3000/api/estado
 ~~~
+> Nota temporal: pendiente agregar ejemplos adicionales de uso.
 
 ## Autores
 
